@@ -9,5 +9,10 @@ h1, h2 {
   margin-left: 40px;
   margin-right: 80px;
 }
- 
+
+.cursiva {
+  font-family: Lato;
+  font-style: italic;
+  font-size: 85%;
+}
  
